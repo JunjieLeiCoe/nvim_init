@@ -5,7 +5,7 @@ set cursorline
 set termguicolors
 let $NVIM_TUI_ENABLE_TRUE_COLOR=1
 
-hi Pmenu guibg=Black
+hi Pmenu guibg=Red
 
 call plug#begin('~/AppData/Local/nvim/plugged')
 " below are some vim plugins for demonstration purpose.
@@ -25,6 +25,9 @@ map <C-k> <C-w>k
 map <C-l> <C-w>l
 
 
+
+
+" This is a commit from Mac OS
 
 
 
